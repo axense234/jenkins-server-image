@@ -1,10 +1,10 @@
 # **_Jenkins Server Dockerfile_**
 
-### **Description**
+### **_Description_**
 
 Projects contains a Dockerfile for a Jenkins server. Only for personal uses.
 
-### **Setup**
+### **_Setup_**
 
 - **Node 20** installed
 - **awscli** installed
